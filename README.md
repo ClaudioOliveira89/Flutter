@@ -5,3 +5,4 @@ This repository was created for studying Flutter, a UI toolkit used to build nat
 
 Este repositório foi criado para estudar Flutter, um kit de ferramentas de interface do usuário utilizado para construir aplicativos compilados nativamente para dispositivos móveis, web e desktop a partir de uma única base de código. Flutter possibilita o desenvolvimento rápido de aplicativos de alto desempenho com UIs bonitas. Os objetivos incluem aprender a desenvolver aplicativos móveis multiplataforma, trabalhar com widgets do Flutter e criar layouts responsivos.
 
+
